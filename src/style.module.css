@@ -1,0 +1,15 @@
+.boss{
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.title{
+    text-align: center;
+}
