@@ -4,7 +4,7 @@ export const DisplayDifficulty = ({difficulty}) => {
     <div className={s.container}>
       {difficulty
         ? `Difficulty set to : ${difficulty}`
-        : "No difficulty set"}
+                                  : "No difficulty set"}
     </div>
   );
 };
